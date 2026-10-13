@@ -4,7 +4,7 @@ Set up a productive development environment before writing full-stack code.
 
 **Source project:** [from-zero-to-fullstack-ch1-foundations](https://github.com/XMAN-MHD/from-zero-to-fullstack-ch1-foundations)
 
-**Chapter status:** Cheatsheets 01–04 are published in Markdown. Remaining guides are planned.
+**Chapter status:** **Complete — all five Chapter 1 cheatsheets are published in Markdown.** PDF exports are available separately and are not yet uploaded to GitHub.
 
 ## Planned cheatsheets
 
@@ -14,8 +14,8 @@ Set up a productive development environment before writing full-stack code.
 | 02 | [Git & GitHub from Scratch](02-git-github/README.md) | **Published — Markdown** |
 | 03 | [React Project Setup with Vite](03-react-vite/README.md) | **Published — Markdown** |
 | 04 | [ESLint & Prettier Configuration](04-eslint-prettier/README.md) | **Published — Markdown** |
-| 05 | Git Hooks with Husky & Commitlint | Planned |
+| 05 | [Git Hooks with Husky & Commitlint](05-husky-commitlint/README.md) | **Published — Markdown** |
 
-Every completed guide will provide **installation from scratch, setup verification, concepts, implementation, tests, troubleshooting, security notes, quick reference, and a reuse checklist**. Completed guides target both Markdown and PDF formats. Markdown guides 01–04 are published; their PDF exports are available separately, pending upload to this GitHub repository.
+Every completed guide will provide **installation from scratch, setup verification, concepts, implementation, tests, troubleshooting, security notes, quick reference, and a reuse checklist**. Completed guides target both Markdown and PDF formats. All five Chapter 1 Markdown guides are published; PDF exports are available separately, pending upload to this GitHub repository.
 
 [← Return to the full roadmap](../README.md)
