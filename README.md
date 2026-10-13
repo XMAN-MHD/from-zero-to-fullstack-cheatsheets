@@ -17,7 +17,7 @@ This library is designed for two audiences:
 | # | Chapter | Cheatsheet | Publication status |
 | :-- | :-- | :-- | :-- |
 | 01 | [Foundations](chapter-01-foundations/) | [Complete Developer Environment Setup](chapter-01-foundations/01-developer-environment/README.md) | **Published — Markdown** |
-| 02 | [Foundations](chapter-01-foundations/) | Git & GitHub from Scratch | Planned |
+| 02 | [Foundations](chapter-01-foundations/) | [Git & GitHub from Scratch](chapter-01-foundations/02-git-github/README.md) | **Published — Markdown** |
 | 03 | [Foundations](chapter-01-foundations/) | React Project Setup with Vite | Planned |
 | 04 | [Foundations](chapter-01-foundations/) | ESLint & Prettier Configuration | Planned |
 | 05 | [Foundations](chapter-01-foundations/) | Git Hooks with Husky & Commitlint | Planned |
@@ -78,7 +78,7 @@ chapter-01-foundations/
 └── ...
 ```
 
-Most chapter folders currently contain indexes. The first published Markdown guide is in `chapter-01-foundations/01-developer-environment/`. Its PDF export is not yet uploaded to GitHub.
+Most chapter folders currently contain indexes. Published Markdown guides 01 and 02 are in `chapter-01-foundations/01-developer-environment/` and `chapter-01-foundations/02-git-github/`. Their PDF exports are not yet uploaded to GitHub.
 
 ## Accuracy and security policy
 
