@@ -23,7 +23,7 @@ This library is designed for two audiences:
 | 03 | [Foundations](chapter-01-foundations/) | [React Project Setup with Vite](chapter-01-foundations/03-react-vite/README.md) | **Published — Markdown** |
 | 04 | [Foundations](chapter-01-foundations/) | [ESLint & Prettier Configuration](chapter-01-foundations/04-eslint-prettier/README.md) | **Published — Markdown** |
 | 05 | [Foundations](chapter-01-foundations/) | [Git Hooks with Husky & Commitlint](chapter-01-foundations/05-husky-commitlint/README.md) | **Published — Markdown** |
-| 06 | [Backend Fundamentals](chapter-02-backend-fundamentals/) | Node.js Fundamentals & Native HTTP Server | Planned |
+| 06 | [Backend Fundamentals](chapter-02-backend-fundamentals/) | [Node.js Fundamentals & Native HTTP Server](chapter-02-backend-fundamentals/06-node-http/README.md) | **Published — Markdown** |
 | 07 | [Backend Fundamentals](chapter-02-backend-fundamentals/) | Node.js File System & JSON Handling | Planned |
 | 08 | [Backend Fundamentals](chapter-02-backend-fundamentals/) | MongoDB Installation & Native Node.js Driver | Planned |
 | 09 | [Backend Development](chapter-03-backend-development/) | Express.js REST API from Scratch | Planned |
