@@ -12,6 +12,8 @@ This library is designed for two audiences:
 
 > **Status:** This repository contains the curriculum and chapter indexes. The table distinguishes **published Markdown guides** from planned documentation. Drafts for Docker and GitHub Actions exist outside this repository and will be published only after review.
 
+**Current progress:** **5/22 Markdown cheatsheets published**. All five Chapter 1 guides are available. PDF exports are available separately while repository PDF uploads remain pending.
+
 ## Roadmap: Chapters 1–5
 
 | # | Chapter | Cheatsheet | Publication status |
@@ -20,7 +22,7 @@ This library is designed for two audiences:
 | 02 | [Foundations](chapter-01-foundations/) | [Git & GitHub from Scratch](chapter-01-foundations/02-git-github/README.md) | **Published — Markdown** |
 | 03 | [Foundations](chapter-01-foundations/) | [React Project Setup with Vite](chapter-01-foundations/03-react-vite/README.md) | **Published — Markdown** |
 | 04 | [Foundations](chapter-01-foundations/) | [ESLint & Prettier Configuration](chapter-01-foundations/04-eslint-prettier/README.md) | **Published — Markdown** |
-| 05 | [Foundations](chapter-01-foundations/) | Git Hooks with Husky & Commitlint | Planned |
+| 05 | [Foundations](chapter-01-foundations/) | [Git Hooks with Husky & Commitlint](chapter-01-foundations/05-husky-commitlint/README.md) | **Published — Markdown** |
 | 06 | [Backend Fundamentals](chapter-02-backend-fundamentals/) | Node.js Fundamentals & Native HTTP Server | Planned |
 | 07 | [Backend Fundamentals](chapter-02-backend-fundamentals/) | Node.js File System & JSON Handling | Planned |
 | 08 | [Backend Fundamentals](chapter-02-backend-fundamentals/) | MongoDB Installation & Native Node.js Driver | Planned |
