@@ -10,7 +10,7 @@ This library is designed for two audiences:
 
 **Language:** clear technical English. **Formats:** editable Markdown and an accompanying reviewed PDF for each published guide.
 
-> **Status:** This repository contains the curriculum and chapter indexes. The table distinguishes the **published guide** from planned documentation. Drafts for Docker and GitHub Actions exist outside this repository and will be published only after review.
+> **Status:** This repository contains the curriculum and chapter indexes. The table distinguishes **published Markdown guides** from planned documentation. Drafts for Docker and GitHub Actions exist outside this repository and will be published only after review.
 
 ## Roadmap: Chapters 1–5
 
@@ -18,7 +18,7 @@ This library is designed for two audiences:
 | :-- | :-- | :-- | :-- |
 | 01 | [Foundations](chapter-01-foundations/) | [Complete Developer Environment Setup](chapter-01-foundations/01-developer-environment/README.md) | **Published — Markdown** |
 | 02 | [Foundations](chapter-01-foundations/) | [Git & GitHub from Scratch](chapter-01-foundations/02-git-github/README.md) | **Published — Markdown** |
-| 03 | [Foundations](chapter-01-foundations/) | React Project Setup with Vite | Planned |
+| 03 | [Foundations](chapter-01-foundations/) | [React Project Setup with Vite](chapter-01-foundations/03-react-vite/README.md) | **Published — Markdown** |
 | 04 | [Foundations](chapter-01-foundations/) | ESLint & Prettier Configuration | Planned |
 | 05 | [Foundations](chapter-01-foundations/) | Git Hooks with Husky & Commitlint | Planned |
 | 06 | [Backend Fundamentals](chapter-02-backend-fundamentals/) | Node.js Fundamentals & Native HTTP Server | Planned |
@@ -78,7 +78,7 @@ chapter-01-foundations/
 └── ...
 ```
 
-Most chapter folders currently contain indexes. Published Markdown guides 01 and 02 are in `chapter-01-foundations/01-developer-environment/` and `chapter-01-foundations/02-git-github/`. Their PDF exports are not yet uploaded to GitHub.
+Most chapter folders currently contain indexes. Published Markdown guides **01–03** are in `chapter-01-foundations/` under their topic folders. Their PDF exports are available separately but are **not yet hosted in this GitHub repository**.
 
 ## Accuracy and security policy
 
