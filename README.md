@@ -10,13 +10,13 @@ This library is designed for two audiences:
 
 **Language:** clear technical English. **Formats:** editable Markdown and an accompanying reviewed PDF for each published guide.
 
-> **Status:** This repository contains the curriculum and chapter indexes. The guides in the table below are a **publication roadmap**, not completed documents. Drafts for Docker and GitHub Actions exist outside this repository and will be published only after review.
+> **Status:** This repository contains the curriculum and chapter indexes. The table distinguishes the **published guide** from planned documentation. Drafts for Docker and GitHub Actions exist outside this repository and will be published only after review.
 
 ## Roadmap: Chapters 1–5
 
 | # | Chapter | Cheatsheet | Publication status |
 | :-- | :-- | :-- | :-- |
-| 01 | [Foundations](chapter-01-foundations/) | Complete Developer Environment Setup | Planned |
+| 01 | [Foundations](chapter-01-foundations/) | [Complete Developer Environment Setup](chapter-01-foundations/01-developer-environment/README.md) | **Published — Markdown** |
 | 02 | [Foundations](chapter-01-foundations/) | Git & GitHub from Scratch | Planned |
 | 03 | [Foundations](chapter-01-foundations/) | React Project Setup with Vite | Planned |
 | 04 | [Foundations](chapter-01-foundations/) | ESLint & Prettier Configuration | Planned |
@@ -78,7 +78,7 @@ chapter-01-foundations/
 └── ...
 ```
 
-The current chapter folders contain **indexes only**; a cheatsheet folder will be added when its guide is ready.
+Most chapter folders currently contain indexes. The first published Markdown guide is in `chapter-01-foundations/01-developer-environment/`. Its PDF export is not yet uploaded to GitHub.
 
 ## Accuracy and security policy
 
