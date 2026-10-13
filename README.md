@@ -19,7 +19,7 @@ This library is designed for two audiences:
 | 01 | [Foundations](chapter-01-foundations/) | [Complete Developer Environment Setup](chapter-01-foundations/01-developer-environment/README.md) | **Published — Markdown** |
 | 02 | [Foundations](chapter-01-foundations/) | [Git & GitHub from Scratch](chapter-01-foundations/02-git-github/README.md) | **Published — Markdown** |
 | 03 | [Foundations](chapter-01-foundations/) | [React Project Setup with Vite](chapter-01-foundations/03-react-vite/README.md) | **Published — Markdown** |
-| 04 | [Foundations](chapter-01-foundations/) | ESLint & Prettier Configuration | Planned |
+| 04 | [Foundations](chapter-01-foundations/) | [ESLint & Prettier Configuration](chapter-01-foundations/04-eslint-prettier/README.md) | **Published — Markdown** |
 | 05 | [Foundations](chapter-01-foundations/) | Git Hooks with Husky & Commitlint | Planned |
 | 06 | [Backend Fundamentals](chapter-02-backend-fundamentals/) | Node.js Fundamentals & Native HTTP Server | Planned |
 | 07 | [Backend Fundamentals](chapter-02-backend-fundamentals/) | Node.js File System & JSON Handling | Planned |
