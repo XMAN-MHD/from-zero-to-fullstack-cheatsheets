@@ -4,7 +4,7 @@ Build a maintainable Express REST API with Mongoose persistence and automated te
 
 **Source project:** [from-zero-to-fullstack-ch3-backend-development](https://github.com/XMAN-MHD/from-zero-to-fullstack-ch3-backend-development)
 
-**Chapter status:** Cheatsheets 09 and 10 are published in Markdown. Cheatsheets 11–13 are planned.
+**Chapter status:** Cheatsheets 09–11 are published in Markdown. Cheatsheets 12 and 13 are planned.
 
 ## Planned cheatsheets
 
@@ -12,7 +12,7 @@ Build a maintainable Express REST API with Mongoose persistence and automated te
 | :-- | :-- | :-- |
 | 09 | [Express.js REST API from Scratch](09-express-rest-api/README.md) | **Published — Markdown** |
 | 10 | [MongoDB with Mongoose](10-mongoose/README.md) | **Published — Markdown** |
-| 11 | Building a Complete CRUD REST API | Planned |
+| 11 | [Building a Complete CRUD REST API](11-crud-rest-api/README.md) | **Published — Markdown** |
 | 12 | Backend Architecture: Routes, Services & Models | Planned |
 | 13 | Automated Backend Testing with Jest | Planned |
 
