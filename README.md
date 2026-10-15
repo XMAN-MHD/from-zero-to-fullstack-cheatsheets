@@ -12,7 +12,7 @@ This library is designed for two audiences:
 
 > **Status:** This repository contains the curriculum and chapter indexes. The table distinguishes **published Markdown guides** from planned documentation. Drafts for Docker and GitHub Actions exist outside this repository and will be published only after review.
 
-**Current progress:** **8/22 Markdown cheatsheets published**. Chapters 1 and 2 are fully documented in Markdown; Chapter 3 is next. PDF exports are available separately while repository PDF uploads remain pending.
+**Current progress:** **9/22 Markdown cheatsheets published**. Chapters 1 and 2 are fully documented in Markdown, and Chapter 3 has started. PDF exports are available separately while repository PDF uploads remain pending.
 
 ## Roadmap: Chapters 1–5
 
@@ -26,7 +26,7 @@ This library is designed for two audiences:
 | 06 | [Backend Fundamentals](chapter-02-backend-fundamentals/) | [Node.js Fundamentals & Native HTTP Server](chapter-02-backend-fundamentals/06-node-http/README.md) | **Published — Markdown** |
 | 07 | [Backend Fundamentals](chapter-02-backend-fundamentals/) | [Node.js File System & JSON Handling](chapter-02-backend-fundamentals/07-node-fs-json/README.md) | **Published — Markdown** |
 | 08 | [Backend Fundamentals](chapter-02-backend-fundamentals/) | [MongoDB Installation & Native Node.js Driver](chapter-02-backend-fundamentals/08-mongodb-native-driver/README.md) | **Published — Markdown** |
-| 09 | [Backend Development](chapter-03-backend-development/) | Express.js REST API from Scratch | Planned |
+| 09 | [Backend Development](chapter-03-backend-development/) | [Express.js REST API from Scratch](chapter-03-backend-development/09-express-rest-api/README.md) | **Published — Markdown** |
 | 10 | [Backend Development](chapter-03-backend-development/) | MongoDB with Mongoose | Planned |
 | 11 | [Backend Development](chapter-03-backend-development/) | Building a Complete CRUD REST API | Planned |
 | 12 | [Backend Development](chapter-03-backend-development/) | Backend Architecture: Routes, Services & Models | Planned |
