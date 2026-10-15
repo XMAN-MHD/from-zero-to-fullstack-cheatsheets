@@ -12,7 +12,7 @@ This library is designed for two audiences:
 
 > **Status:** This repository contains the curriculum and chapter indexes. The table distinguishes **published Markdown guides** from planned documentation. Drafts for Docker and GitHub Actions exist outside this repository and will be published only after review.
 
-**Current progress:** **7/22 Markdown cheatsheets published**. All five Chapter 1 guides and the first two Chapter 2 guides are available. PDF exports are available separately while repository PDF uploads remain pending.
+**Current progress:** **8/22 Markdown cheatsheets published**. Chapters 1 and 2 are fully documented in Markdown; Chapter 3 is next. PDF exports are available separately while repository PDF uploads remain pending.
 
 ## Roadmap: Chapters 1–5
 
@@ -25,7 +25,7 @@ This library is designed for two audiences:
 | 05 | [Foundations](chapter-01-foundations/) | [Git Hooks with Husky & Commitlint](chapter-01-foundations/05-husky-commitlint/README.md) | **Published — Markdown** |
 | 06 | [Backend Fundamentals](chapter-02-backend-fundamentals/) | [Node.js Fundamentals & Native HTTP Server](chapter-02-backend-fundamentals/06-node-http/README.md) | **Published — Markdown** |
 | 07 | [Backend Fundamentals](chapter-02-backend-fundamentals/) | [Node.js File System & JSON Handling](chapter-02-backend-fundamentals/07-node-fs-json/README.md) | **Published — Markdown** |
-| 08 | [Backend Fundamentals](chapter-02-backend-fundamentals/) | MongoDB Installation & Native Node.js Driver | Planned |
+| 08 | [Backend Fundamentals](chapter-02-backend-fundamentals/) | [MongoDB Installation & Native Node.js Driver](chapter-02-backend-fundamentals/08-mongodb-native-driver/README.md) | **Published — Markdown** |
 | 09 | [Backend Development](chapter-03-backend-development/) | Express.js REST API from Scratch | Planned |
 | 10 | [Backend Development](chapter-03-backend-development/) | MongoDB with Mongoose | Planned |
 | 11 | [Backend Development](chapter-03-backend-development/) | Building a Complete CRUD REST API | Planned |
