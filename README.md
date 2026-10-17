@@ -12,7 +12,7 @@ This library is designed for two audiences:
 
 > **Status:** This repository contains the curriculum and chapter indexes. The table distinguishes **published Markdown guides** from planned documentation. Drafts for Docker and GitHub Actions exist outside this repository and will be published only after review.
 
-**Current progress:** **11/22 Markdown cheatsheets published**. Chapters 1 and 2 are fully documented in Markdown; Chapter 3 now has three published guides. PDF exports are available separately while repository PDF uploads remain pending.
+**Current progress:** **12/22 Markdown cheatsheets published**. Chapters 1 and 2 are fully documented in Markdown; Chapter 3 now has four published guides. PDF exports are available separately while repository PDF uploads remain pending.
 
 ## Roadmap: Chapters 1–5
 
@@ -29,7 +29,7 @@ This library is designed for two audiences:
 | 09 | [Backend Development](chapter-03-backend-development/) | [Express.js REST API from Scratch](chapter-03-backend-development/09-express-rest-api/README.md) | **Published — Markdown** |
 | 10 | [Backend Development](chapter-03-backend-development/) | [MongoDB with Mongoose](chapter-03-backend-development/10-mongoose/README.md) | **Published — Markdown** |
 | 11 | [Backend Development](chapter-03-backend-development/) | [Building a Complete CRUD REST API](chapter-03-backend-development/11-crud-rest-api/README.md) | **Published — Markdown** |
-| 12 | [Backend Development](chapter-03-backend-development/) | Backend Architecture: Routes, Services & Models | Planned |
+| 12 | [Backend Development](chapter-03-backend-development/) | [Backend Architecture: Routes, Services & Models](chapter-03-backend-development/12-backend-architecture/README.md) | **Published — Markdown** |
 | 13 | [Backend Development](chapter-03-backend-development/) | Automated Backend Testing with Jest | Planned |
 | 14 | [Frontend Development](chapter-04-frontend-development/) | React Components, JSX, Props & State | Planned |
 | 15 | [Frontend Development](chapter-04-frontend-development/) | Connecting React to a REST API | Planned |
