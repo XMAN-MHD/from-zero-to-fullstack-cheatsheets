@@ -12,7 +12,7 @@ This library is designed for two audiences:
 
 > **Status:** This repository contains the curriculum and chapter indexes. The table distinguishes **published Markdown guides** from planned documentation. Drafts for Docker and GitHub Actions exist outside this repository and will be published only after review.
 
-**Current progress:** **13/22 Markdown cheatsheets published**. Chapters 1–3 are fully documented in Markdown. PDF exports are available separately while repository PDF uploads remain pending.
+**Current progress:** **14/22 Markdown cheatsheets published**. Chapters 1–3 are fully documented; Chapter 4 has its first published guide (Cheatsheet 15), while Cheatsheet 14 remains planned. PDF exports are distributed separately while GitHub PDF uploads remain pending.
 
 ## Roadmap: Chapters 1–5
 
@@ -32,7 +32,7 @@ This library is designed for two audiences:
 | 12 | [Backend Development](chapter-03-backend-development/) | [Backend Architecture: Routes, Services & Models](chapter-03-backend-development/12-backend-architecture/README.md) | **Published — Markdown** |
 | 13 | [Backend Development](chapter-03-backend-development/) | [Automated Backend Testing with Jest](chapter-03-backend-development/13-jest-backend-testing/README.md) | **Published — Markdown** |
 | 14 | [Frontend Development](chapter-04-frontend-development/) | React Components, JSX, Props & State | Planned |
-| 15 | [Frontend Development](chapter-04-frontend-development/) | Connecting React to a REST API | Planned |
+| 15 | [Frontend Development](chapter-04-frontend-development/) | [Connecting React to a REST API](chapter-04-frontend-development/15-react-rest-api/README.md) | **Published — Markdown** |
 | 16 | [Frontend Development](chapter-04-frontend-development/) | TanStack Query from Scratch | Planned |
 | 17 | [Frontend Development](chapter-04-frontend-development/) | Complete React CRUD Application | Planned |
 | 18 | [Frontend Development](chapter-04-frontend-development/) | Filtering, Sorting & Custom Hooks | Planned |
@@ -80,7 +80,7 @@ chapter-01-foundations/
 └── ...
 ```
 
-Most chapter folders currently contain indexes. Published Markdown guides **01–03** are in `chapter-01-foundations/` under their topic folders. Their PDF exports are available separately but are **not yet hosted in this GitHub repository**.
+Published Markdown guides live inside their chapter folders. All guides **01–13** and **15** are currently published; **14** remains planned. Their PDF exports are distributed separately and have not yet been uploaded to this GitHub repository.
 
 ## Accuracy and security policy
 
