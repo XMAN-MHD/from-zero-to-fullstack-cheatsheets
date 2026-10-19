@@ -12,7 +12,7 @@ This library is designed for two audiences:
 
 > **Status:** This repository contains the curriculum and chapter indexes. The table distinguishes **published Markdown guides** from planned documentation. Drafts for Docker and GitHub Actions exist outside this repository and will be published only after review.
 
-**Current progress:** **14/22 Markdown cheatsheets published**. Chapters 1–3 are fully documented; Chapter 4 has its first published guide (Cheatsheet 15), while Cheatsheet 14 remains planned. PDF exports are distributed separately while GitHub PDF uploads remain pending.
+**Current progress:** **16/22 Markdown cheatsheets published**. Chapters 1–3 are fully documented; Chapter 4 now has its first three guides (14–16) published in Markdown. PDF exports are distributed separately while GitHub PDF uploads remain pending.
 
 ## Roadmap: Chapters 1–5
 
@@ -31,9 +31,9 @@ This library is designed for two audiences:
 | 11 | [Backend Development](chapter-03-backend-development/) | [Building a Complete CRUD REST API](chapter-03-backend-development/11-crud-rest-api/README.md) | **Published — Markdown** |
 | 12 | [Backend Development](chapter-03-backend-development/) | [Backend Architecture: Routes, Services & Models](chapter-03-backend-development/12-backend-architecture/README.md) | **Published — Markdown** |
 | 13 | [Backend Development](chapter-03-backend-development/) | [Automated Backend Testing with Jest](chapter-03-backend-development/13-jest-backend-testing/README.md) | **Published — Markdown** |
-| 14 | [Frontend Development](chapter-04-frontend-development/) | React Components, JSX, Props & State | Planned |
+| 14 | [Frontend Development](chapter-04-frontend-development/) | [React Components, JSX, Props & State](chapter-04-frontend-development/14-react-components/README.md) | **Published — Markdown** |
 | 15 | [Frontend Development](chapter-04-frontend-development/) | [Connecting React to a REST API](chapter-04-frontend-development/15-react-rest-api/README.md) | **Published — Markdown** |
-| 16 | [Frontend Development](chapter-04-frontend-development/) | TanStack Query from Scratch | Planned |
+| 16 | [Frontend Development](chapter-04-frontend-development/) | [TanStack Query from Scratch](chapter-04-frontend-development/16-tanstack-query/README.md) | **Published — Markdown** |
 | 17 | [Frontend Development](chapter-04-frontend-development/) | Complete React CRUD Application | Planned |
 | 18 | [Frontend Development](chapter-04-frontend-development/) | Filtering, Sorting & Custom Hooks | Planned |
 | 19 | [DevOps](chapter-05-devops/) | Docker Fundamentals & Installation | Planned |
@@ -80,7 +80,7 @@ chapter-01-foundations/
 └── ...
 ```
 
-Published Markdown guides live inside their chapter folders. All guides **01–13** and **15** are currently published; **14** remains planned. Their PDF exports are distributed separately and have not yet been uploaded to this GitHub repository.
+Published Markdown guides live inside their chapter folders. All guides **01–16** are now published. Their PDF exports are distributed separately and have not yet been uploaded to this GitHub repository.
 
 ## Accuracy and security policy
 
