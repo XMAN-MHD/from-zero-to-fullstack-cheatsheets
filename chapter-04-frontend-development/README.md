@@ -4,15 +4,15 @@ Create a React blog interface that reads and modifies data through the backend A
 
 **Source project:** [from-zero-to-fullstack-ch4-frontend-development](https://github.com/XMAN-MHD/from-zero-to-fullstack-ch4-frontend-development)
 
-**Chapter status:** Cheatsheet 15 is published in Markdown. Cheatsheets 14 and 16–18 remain planned.
+**Chapter status:** Cheatsheets 14, 15 and 16 are published in Markdown; Cheatsheets 17 and 18 remain planned.
 
 ## Planned cheatsheets
 
 | # | Topic | Status |
 | :-- | :-- | :-- |
-| 14 | React Components, JSX, Props & State | Planned |
+| 14 | [React Components, JSX, Props & State](14-react-components/README.md) | **Published — Markdown** |
 | 15 | [Connecting React to a REST API](15-react-rest-api/README.md) | **Published — Markdown** |
-| 16 | TanStack Query from Scratch | Planned |
+| 16 | [TanStack Query from Scratch](16-tanstack-query/README.md) | **Published — Markdown** |
 | 17 | Complete React CRUD Application | Planned |
 | 18 | Filtering, Sorting & Custom Hooks | Planned |
 
