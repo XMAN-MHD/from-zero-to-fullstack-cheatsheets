@@ -12,7 +12,7 @@ This library is designed for two audiences:
 
 > **Status:** This repository contains the curriculum and chapter indexes. The table distinguishes **published Markdown guides** from planned documentation. Drafts for Docker and GitHub Actions exist outside this repository and will be published only after review.
 
-**Current progress:** **16/22 Markdown cheatsheets published**. Chapters 1–3 are fully documented; Chapter 4 now has its first three guides (14–16) published in Markdown. PDF exports are distributed separately while GitHub PDF uploads remain pending.
+**Current progress:** **17/22 Markdown cheatsheets published**. Chapters 1–3 are fully documented; Chapter 4 now has four published guides (14–17). PDF exports are distributed separately while GitHub PDF uploads remain pending.
 
 ## Roadmap: Chapters 1–5
 
@@ -34,7 +34,7 @@ This library is designed for two audiences:
 | 14 | [Frontend Development](chapter-04-frontend-development/) | [React Components, JSX, Props & State](chapter-04-frontend-development/14-react-components/README.md) | **Published — Markdown** |
 | 15 | [Frontend Development](chapter-04-frontend-development/) | [Connecting React to a REST API](chapter-04-frontend-development/15-react-rest-api/README.md) | **Published — Markdown** |
 | 16 | [Frontend Development](chapter-04-frontend-development/) | [TanStack Query from Scratch](chapter-04-frontend-development/16-tanstack-query/README.md) | **Published — Markdown** |
-| 17 | [Frontend Development](chapter-04-frontend-development/) | Complete React CRUD Application | Planned |
+| 17 | [Frontend Development](chapter-04-frontend-development/) | [Complete React CRUD Application](chapter-04-frontend-development/17-react-crud-application/README.md) | **Published — Markdown** |
 | 18 | [Frontend Development](chapter-04-frontend-development/) | Filtering, Sorting & Custom Hooks | Planned |
 | 19 | [DevOps](chapter-05-devops/) | Docker Fundamentals & Installation | Planned |
 | 20 | [DevOps](chapter-05-devops/) | Dockerizing a MERN Fullstack Application | Draft available; review pending |
@@ -80,7 +80,7 @@ chapter-01-foundations/
 └── ...
 ```
 
-Published Markdown guides live inside their chapter folders. All guides **01–16** are now published. Their PDF exports are distributed separately and have not yet been uploaded to this GitHub repository.
+Published Markdown guides live inside their chapter folders. All guides **01–17** are now published. Their PDF exports are distributed separately and have not yet been uploaded to this GitHub repository.
 
 ## Accuracy and security policy
 
