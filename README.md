@@ -12,7 +12,7 @@ This library is designed for two audiences:
 
 > **Status:** This repository contains the curriculum and chapter indexes. The table distinguishes **published Markdown guides** from planned documentation. Drafts for Docker and GitHub Actions exist outside this repository and will be published only after review.
 
-**Current progress:** **19/22 Markdown cheatsheets published**. Chapters 1–4 are complete; Chapter 5 — DevOps now has its first published guide (Cheatsheet 19). PDF exports are distributed separately while GitHub PDF uploads remain pending.
+**Current progress:** **20/22 Markdown cheatsheets published**. Chapters 1–4 are complete; Chapter 5 — DevOps now has two published guides (Cheatsheets 19–20). PDF exports are distributed separately while GitHub PDF uploads remain pending.
 
 ## Roadmap: Chapters 1–5
 
@@ -37,7 +37,7 @@ This library is designed for two audiences:
 | 17 | [Frontend Development](chapter-04-frontend-development/) | [Complete React CRUD Application](chapter-04-frontend-development/17-react-crud-application/README.md) | **Published — Markdown** |
 | 18 | [Frontend Development](chapter-04-frontend-development/) | [Filtering, Sorting & Custom Hooks](chapter-04-frontend-development/18-filtering-sorting-custom-hooks/README.md) | **Published — Markdown** |
 | 19 | [DevOps](chapter-05-devops/) | [Docker Fundamentals & Installation](chapter-05-devops/19-docker-fundamentals-installation/README.md) | **Published — Markdown** |
-| 20 | [DevOps](chapter-05-devops/) | Dockerizing a MERN Fullstack Application | Draft available; review pending |
+| 20 | [DevOps](chapter-05-devops/) | [Dockerizing a MERN Fullstack Application](chapter-05-devops/20-dockerizing-mern-fullstack/README.md) | **Published — Markdown** |
 | 21 | [DevOps](chapter-05-devops/) | GitHub Actions CI from Scratch | Draft available; review pending |
 | 22 | [DevOps](chapter-05-devops/) | Continuous Deployment with Render | Planned |
 
@@ -80,7 +80,7 @@ chapter-01-foundations/
 └── ...
 ```
 
-Published Markdown guides live inside their chapter folders. All guides **01–19** are now published. Their PDF exports are distributed separately and have not yet been uploaded to this GitHub repository.
+Published Markdown guides live inside their chapter folders. All guides **01–20** are now published. Their PDF exports are distributed separately and have not yet been uploaded to this GitHub repository.
 
 ## Accuracy and security policy
 
